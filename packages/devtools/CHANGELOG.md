@@ -1,5 +1,11 @@
 # @ai-sdk/devtools
 
+## 1.0.82
+
+### Patch Changes
+
+- ai@7.0.179
+
 ## 1.0.81
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # ai
 
+## 7.0.179
+
+### Patch Changes
+
+- Updated dependencies [beccad3]
+  - @ai-sdk/gateway@4.0.152
+
 ## 7.0.178
 
 ### Patch Changes
